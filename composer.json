@@ -1,5 +1,5 @@
 {
-  "name": "MultyPony/sdek-sdk2.0",
+  "name": "multy-pony/sdek-sdk2.0",
   "type": "library",
   "description": "PHP SDK для API v2.0 от сервиса интеграции компании СДЭК с изменениями",
   "keywords": [
